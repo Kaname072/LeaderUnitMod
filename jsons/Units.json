@@ -14,6 +14,7 @@
 			"[+10]% Strength bonus for [Military] units within [1] tiles",
 			"All adjacent units heal [5] HP when healing",
 			"Invisible to others <for [Barbarian] units>",
+			"Reveal up to [All] [Leader] within a [30] tile radius <upon turn start>",
 			"Comment [[This Unit] gets a name from the [Leader] group]",
 			"[This Unit] gets a name from the [Babylon Leader] group <for [Babylon] Civilizations> <hidden from users>",
 			"[This Unit] gets a name from the [Greece Leader] group <for [Greece] Civilizations> <hidden from users>",

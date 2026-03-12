@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Owners Leaders",
+    "uniques": [
+      "Cannot be traded <hidden from users>",
+			"Stockpiled",
+			"Excluded from map editor",
+			"Not shown on world screen",
+			"Doesn't generate naturally"
+    ]
+  }
+]

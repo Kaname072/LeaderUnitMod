@@ -1,6 +1,7 @@
 {
   "name": "Leader Stuff",
   "uniques": [
-    "Free [Leader] appears <upon founding a city> <when number of [Cities] is less than [2]> <for [Major] Civilizations>"
+    "Free [Leader] appears <upon founding a city> <when number of [Cities] is less than [2]> <for [Major] Civilizations>",
+    "Provides [1] [Owners Leaders] <for every [[Leader] Units]>",
   ]
 }

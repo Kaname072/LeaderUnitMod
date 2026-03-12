@@ -86,5 +86,57 @@
   {
     "name": "Mongolia Leader",
     "unitNames": ["Genghis Khan"]
+  },
+  {
+    "name": "Aztecs Leader",
+    "unitNames": ["Montezuma I"]
+  },
+  {
+    "name": "Inca Leader",
+    "unitNames": ["Pachacuti"]
+  },
+  {
+    "name": "Denmark Leader",
+    "unitNames": ["Harald Bluetooth"]
+  },
+  {
+    "name": "The Huns Leader",
+    "unitNames": ["Attila the Hun"]
+  },
+  {
+    "name": "Netherlands Leader",
+    "unitNames": ["William of Orange"]
+  },
+  {
+    "name": "Sweden Leader",
+    "unitNames": ["Gustavus Adolphus"]
+  },
+  {
+    "name": "Austria Leader",
+    "unitNames": ["Maria Theresa"]
+  },
+  {
+    "name": "Carthage Leader",
+    "unitNames": ["Dido"]
+  },
+  {
+    "name": "Byzantium Leader",
+    "unitNames": ["Theodora"]
+  },
+  {
+    "name": "Babylon Leader",
+    "unitNames": ["Nebuchadnezzar II"]
+  },
+  {
+    "name": "Celts Leader",
+    "unitNames": ["Boudicca"]
+  },
+  {
+    "name": "Ethiopia Leader",
+    "unitNames": ["Haile Selassie"]
+  },
+  {
+    "name": "The Maya Leader",
+    "unitNames": ["Pacal"]
   }
 ]

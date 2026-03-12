@@ -8,7 +8,9 @@
 			"Ignores terrain cost",
 			"Can pass through impassable tiles",
 			"May enter foreign tiles without open borders",
-			"Unbuildable"
+			"Unbuildable",
+			"[+10]% Strength bonus for [Military] units within [1] tiles",
+			"Invisible to others <for [Barbarian] units>"
 		]
 	}
 ]

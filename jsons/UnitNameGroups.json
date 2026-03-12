@@ -1,6 +1,90 @@
 [
   {
-    "name": "Leader",
-    "unitNames": ["[leaderName]"]
+    "name": "Babylon Leader",
+    "unitNames": ["Nebuchadnezzar II"]
+  },
+   {
+    "name": "Greece Leader",
+    "unitNames": ["Alexander"]
+  },
+  {
+    "name": "China Leader",
+    "unitNames": ["Wu Zetian"]
+  },
+  {
+    "name": "Egypt Leader",
+    "unitNames": ["Ramesses II"]
+  },
+  {
+    "name": "England Leader",
+    "unitNames": ["Elizabeth"]
+  },
+  {
+    "name": "France Leader",
+    "unitNames": ["Napoleon"]
+  },
+  {
+    "name": "Russia Leader",
+    "unitNames": ["Catherine"]
+  },
+  {
+    "name": "Rome Leader",
+    "unitNames": ["Augustus Caesar"]
+  },
+  {
+    "name": "Arabia Leader",
+    "unitNames": ["Harun al-Rashid"]
+  },
+  {
+    "name": "America Leader",
+    "unitNames": ["George Washington"]
+  },
+  {
+    "name": "Japan Leader",
+    "unitNames": ["Oda Nobunaga"]
+  },
+  {
+    "name": "India Leader",
+    "unitNames": ["Gandhi"]
+  },
+  {
+    "name": "Germany Leader",
+    "unitNames": ["Otto von Bismarck"]
+  },
+  {
+    "name": "The Ottomans Leader",
+    "unitNames": ["Suleiman I"]
+  },
+  {
+    "name": "Korea Leader",
+    "unitNames": ["Sejong"]
+  },
+  {
+    "name": "Iroquois Leader",
+    "unitNames": ["Hiawatha"]
+  },
+  {
+    "name": "Persia Leader",
+    "unitNames": ["Darius I"]
+  },
+  {
+    "name": "Polynesia Leader",
+    "unitNames": ["Kamehameha I"]
+  },
+  {
+    "name": "Siam Leader",
+    "unitNames": ["Ramkhamhaeng"]
+  },
+  {
+    "name": "Spain Leader",
+    "unitNames": ["Isabella"]
+  },
+  {
+    "name": "Songhai Leader",
+    "unitNames": ["Askia"]
+  },
+  {
+    "name": "Mongolia Leader",
+    "unitNames": ["Genghis Khan"]
   }
 ]

@@ -6,15 +6,22 @@ filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 UnitIcons/Leader
   rotate: false
-  xy: 4, 4
-  size: 100, 100
+  xy: 0, 0
+  size: 200, 200
   orig: 100, 100
   offset: 0, 0
   index: -1
-Tilesets/HexaRealm/Units/Leader-America
+Tilesets/HexaRealm/Units/Leader
   rotate: false
-  xy: 4, 4
-  size: 100, 100
-  orig: 100, 100
+  xy: 332, 4
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+Tilesets/HexaRealm/Units/Leader-American
+  rotate: false
+  xy: 332, 69
+  size: 64, 56
+  orig: 64, 56
   offset: 0, 0
   index: -1

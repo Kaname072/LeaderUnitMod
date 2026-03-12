@@ -10,7 +10,9 @@
 			"May enter foreign tiles without open borders",
 			"Unbuildable",
 			"[+10]% Strength bonus for [Military] units within [1] tiles",
-			"Invisible to others <for [Barbarian] units>"
+			"Invisible to others <for [Barbarian] units>",
+			"[This Unit] gets a name from the [Leader] group",
+			"Unsellable"
 		]
 	}
 ]

@@ -3,9 +3,8 @@
 		"name": "Leader",
 		"unitType": "Civilian",
 		"requiredTech": "Agriculture",
-		"movement": 1,
+		"movement": 2,
 		"uniques": [
-			"Ignores Zone of Control",
 			"Ignores terrain cost",
 			"Can pass through impassable tiles",
 			"Unbuildable"

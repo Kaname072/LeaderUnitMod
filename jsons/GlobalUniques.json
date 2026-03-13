@@ -3,10 +3,11 @@
   "uniques": [
     "Free [Leader] appears <upon founding a city> <when number of [Cities] is less than [2]> <for [Major] Civilizations>",
     "Provides [1] [Owners Leaders] <for every [[Leader] Units]>",
-    "[-50]% [Gold] [in all cities] <when number of [[Leader] Units] is less than [1]",
+    "[-50]% [Gold] [in all cities] <when number of [[Leader] Units] is less than [1]>",
     "Nullifies [Science] [in all cities] <when number of [[Leader] Units] is less than [1]>",
     "Nullifies [Culture] [in all cities] <when number of [[Leader] Units] is less than [1]>",
     "Nullifies Growth [in all cities] <when number of [[Leader] Units] is less than [1]>",
     "[-25]% Strength <for [Military] units> <when number of [[Leader] Units] is less than [1]>",
+    "Can see invisible [Leader] units <for [{All} {non-[Barbarian]}] units>"
   ]
 }

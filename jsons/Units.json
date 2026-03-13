@@ -51,5 +51,23 @@
 			"[This Unit] gets a name from the [Ethiopia Leader] group <for [Ethiopia] Civilizations> <hidden from users>",
 			"[This Unit] gets a name from the [The Maya Leader] group <for [The Maya] Civilizations> <hidden from users>",
 		]
+	},
+	{
+		"name": "Diplomatic Paper",
+		"unitType": "Civilian",
+		"requiredTech": "Agriculture",
+		"hurryCostModifier": 25,
+		"uniques": [
+			"No Sight",
+			"Cannot move",
+			"Can undertake a trade mission with City-State, giving a large sum of gold and [30] Influence",
+			"[+25]% production cost <when at war>",
+			"Uncapturable",
+			"Can only heal by pillaging <hidden from users>",
+			"[-90]% Gold from Great Merchant trade missions <hidden from users>",
+			"Triggers a global alert upon build start <hidden from users>",
+			"Can only be built",
+			"Limited to [2] per Civilization"
+		]
 	}
 ]

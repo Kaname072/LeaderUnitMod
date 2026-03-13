@@ -8,6 +8,6 @@
     "Nullifies [Culture] [in all cities] <when number of [[Leader] Units] is less than [1]>",
     "Nullifies Growth [in all cities] <when number of [[Leader] Units] is less than [1]>",
     "[-25]% Strength <for [Military] units> <when number of [[Leader] Units] is less than [1]>",
-    "Can see invisible [Leader] units <for [{All} {non-[Barbarian]}] units>"
+    "Can see invisible [Leader] units <for [non-[Barbarian]] units>"
   ]
 }
